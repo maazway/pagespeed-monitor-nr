@@ -1,45 +1,45 @@
 url,strategy,performance,accessibility,best_practices,seo,error
 https://www.nutriclub.co.id/,mobile,44,75,89,100,
-https://www.nutriclub.co.id/,desktop,67,77,93,100,
-https://www.nutriclub.co.id/artikel,mobile,59,77,89,92,
-https://www.nutriclub.co.id/artikel,desktop,67,77,93,92,
-https://www.nutriclub.co.id/produk,mobile,57,79,89,100,
-https://www.nutriclub.co.id/produk,desktop,47,74,93,100,
-https://www.nutriclub.co.id/tools,mobile,71,77,89,100,
-https://www.nutriclub.co.id/tools,desktop,54,77,93,100,
-https://www.nutriclub.co.id/membership,mobile,47,72,86,92,
-https://www.nutriclub.co.id/membership,desktop,37,72,93,92,
-https://www.nutriclub.co.id/produk/nutrilon-royal-3,mobile,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fproduk%2Fnutrilon-royal-3&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/produk/nutrilon-royal-3,desktop,51,75,93,100,
-https://www.nutriclub.co.id/produk/nutrilon-royal-4,mobile,65,80,89,100,
-https://www.nutriclub.co.id/produk/nutrilon-royal-4,desktop,61,75,93,100,
-https://www.nutriclub.co.id/produk/nutrinidrink,mobile,63,81,93,100,
-https://www.nutriclub.co.id/produk/nutrinidrink,desktop,69,77,89,100,
-https://www.nutriclub.co.id/membership/login,mobile,48,78,82,92,
-https://www.nutriclub.co.id/membership/login,desktop,61,78,93,92,
-https://www.nutriclub.co.id/berita-dan-promo,mobile,0,0,0,0,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
-https://www.nutriclub.co.id/berita-dan-promo,desktop,62,77,93,100,
-https://www.nutriclub.co.id/csectionready,mobile,48,73,68,92,
-https://www.nutriclub.co.id/csectionready,desktop,61,72,74,92,
-https://www.nutriclub.co.id/tools/tes-potensi-caesar,mobile,73,77,89,100,
-https://www.nutriclub.co.id/tools/tes-potensi-caesar,desktop,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Ftools%2Ftes-potensi-caesar&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/tools/health-immune-checker,mobile,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Ftools%2Fhealth-immune-checker&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/tools/health-immune-checker,desktop,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Ftools%2Fhealth-immune-checker&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/faq,mobile,76,78,89,100,
-https://www.nutriclub.co.id/faq,desktop,76,77,93,100,
-https://www.nutriclub.co.id/tim-ahli,mobile,75,79,89,100,
-https://www.nutriclub.co.id/tim-ahli,desktop,52,79,93,100,
-https://www.nutriclub.co.id/tim-penulis,mobile,0,0,0,0,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
-https://www.nutriclub.co.id/tim-penulis,desktop,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Ftim-penulis&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/term,mobile,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fterm&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/term,desktop,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fterm&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
-https://www.nutriclub.co.id/artikel,mobile,52,77,89,92,
-https://www.nutriclub.co.id/artikel,desktop,51,77,93,92,
-https://www.nutriclub.co.id/artikel?kategori=mama,mobile,60,77,89,61,
-https://www.nutriclub.co.id/artikel?kategori=mama,desktop,47,77,93,61,
-https://www.nutriclub.co.id/artikel?kategori=bayi,mobile,57,77,89,61,
-https://www.nutriclub.co.id/artikel?kategori=bayi,desktop,61,77,93,61,
-https://www.nutriclub.co.id/artikel?kategori=anak,mobile,48,77,89,61,
-https://www.nutriclub.co.id/artikel?kategori=anak,desktop,65,77,93,61,
+https://www.nutriclub.co.id/,desktop,41,77,93,100,
+https://www.nutriclub.co.id/artikel,mobile,0,0,0,0,500 Server Error: Internal Server Error for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fartikel&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
+https://www.nutriclub.co.id/artikel,desktop,49,77,93,92,
+https://www.nutriclub.co.id/produk,mobile,58,79,89,100,
+https://www.nutriclub.co.id/produk,desktop,49,74,93,100,
+https://www.nutriclub.co.id/tools,mobile,73,77,89,100,
+https://www.nutriclub.co.id/tools,desktop,61,77,93,100,
+https://www.nutriclub.co.id/membership,mobile,38,72,86,92,
+https://www.nutriclub.co.id/membership,desktop,33,72,93,92,
+https://www.nutriclub.co.id/produk/nutrilon-royal-3,mobile,60,80,89,100,
+https://www.nutriclub.co.id/produk/nutrilon-royal-3,desktop,49,75,93,100,
+https://www.nutriclub.co.id/produk/nutrilon-royal-4,mobile,62,80,89,100,
+https://www.nutriclub.co.id/produk/nutrilon-royal-4,desktop,56,75,93,100,
+https://www.nutriclub.co.id/produk/nutrinidrink,mobile,66,81,93,100,
+https://www.nutriclub.co.id/produk/nutrinidrink,desktop,41,77,89,100,
+https://www.nutriclub.co.id/membership/login,mobile,0,0,0,0,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
+https://www.nutriclub.co.id/membership/login,desktop,0,0,0,0,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
+https://www.nutriclub.co.id/berita-dan-promo,mobile,54,77,89,100,
+https://www.nutriclub.co.id/berita-dan-promo,desktop,41,77,93,100,
+https://www.nutriclub.co.id/csectionready,mobile,59,70,68,92,
+https://www.nutriclub.co.id/csectionready,desktop,58,72,74,92,
+https://www.nutriclub.co.id/tools/tes-potensi-caesar,mobile,74,77,89,100,
+https://www.nutriclub.co.id/tools/tes-potensi-caesar,desktop,59,77,89,100,
+https://www.nutriclub.co.id/tools/health-immune-checker,mobile,70,75,86,100,
+https://www.nutriclub.co.id/tools/health-immune-checker,desktop,69,76,93,100,
+https://www.nutriclub.co.id/faq,mobile,78,78,89,100,
+https://www.nutriclub.co.id/faq,desktop,72,77,93,100,
+https://www.nutriclub.co.id/tim-ahli,mobile,76,79,89,100,
+https://www.nutriclub.co.id/tim-ahli,desktop,47,79,93,100,
+https://www.nutriclub.co.id/tim-penulis,mobile,53,82,89,100,
+https://www.nutriclub.co.id/tim-penulis,desktop,50,80,93,100,
+https://www.nutriclub.co.id/term,mobile,80,75,89,100,
+https://www.nutriclub.co.id/term,desktop,66,74,93,100,
+https://www.nutriclub.co.id/artikel,mobile,60,77,89,92,
+https://www.nutriclub.co.id/artikel,desktop,50,77,93,92,
+https://www.nutriclub.co.id/artikel?kategori=mama,mobile,48,77,89,61,
+https://www.nutriclub.co.id/artikel?kategori=mama,desktop,44,77,93,61,
+https://www.nutriclub.co.id/artikel?kategori=bayi,mobile,46,77,89,61,
+https://www.nutriclub.co.id/artikel?kategori=bayi,desktop,0,0,0,0,"HTTPSConnectionPool(host='www.googleapis.com', port=443): Read timed out. (read timeout=60)"
+https://www.nutriclub.co.id/artikel?kategori=anak,mobile,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fartikel%3Fkategori%3Danak&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
+https://www.nutriclub.co.id/artikel?kategori=anak,desktop,0,0,0,0,400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2Fartikel%3Fkategori%3Danak&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyBPfc47muXJUvW7JJGi9rF4auyHi_Z4soo
 https://www.nutriclub.co.id/artikel/nutrisi/10-12-bulan/tekstur-mpasi-10-bulan,mobile,67,80,89,92,
-https://www.nutriclub.co.id/artikel/nutrisi/10-12-bulan/tekstur-mpasi-10-bulan,desktop,83,79,93,92,
+https://www.nutriclub.co.id/artikel/nutrisi/10-12-bulan/tekstur-mpasi-10-bulan,desktop,54,79,93,92,
