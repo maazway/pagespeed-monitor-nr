@@ -54,6 +54,11 @@ jobs:
         env:
           PSI_API_KEY: ${{ secrets.PSI_API_KEY }}
           LOCALE: "en"
+          LOOP_UNTIL_SUCCESS: "1"
+          MAX_MINUTES: "55"
+          MAX_ATTEMPTS: "0"
+          RETRY_BASE_SECONDS: "3"
+          RETRY_MAX_SECONDS: "120"
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
