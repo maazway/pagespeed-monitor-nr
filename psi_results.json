@@ -4,160 +4,165 @@
     {
       "url": "https://www.nutriclub.co.id/",
       "strategy": "mobile",
-      "performance": 45,
+      "performance": 43,
       "accessibility": 74,
       "best_practices": 88,
-      "seo": 100
+      "seo": 100,
+      "retry_attempts": 4
     },
     {
       "url": "https://www.nutriclub.co.id/",
       "strategy": "desktop",
-      "performance": 57,
-      "accessibility": 77,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel",
-      "strategy": "mobile",
-      "performance": 58,
-      "accessibility": 77,
-      "best_practices": 88,
-      "seo": 92
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel",
-      "strategy": "desktop",
       "performance": 54,
-      "accessibility": 78,
-      "best_practices": 92,
-      "seo": 92
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk",
-      "strategy": "mobile",
-      "performance": 63,
-      "accessibility": 79,
-      "best_practices": 88,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk",
-      "strategy": "desktop",
-      "performance": 52,
-      "accessibility": 74,
+      "accessibility": 77,
       "best_practices": 92,
       "seo": 100
     },
     {
-      "url": "https://www.nutriclub.co.id/tools",
+      "url": "https://www.nutriclub.co.id/artikel",
       "strategy": "mobile",
-      "performance": 73,
+      "performance": 60,
       "accessibility": 77,
       "best_practices": 88,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/tools",
-      "strategy": "desktop",
-      "performance": 59,
-      "accessibility": 74,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/membership",
-      "strategy": "mobile",
-      "performance": 43,
-      "accessibility": 72,
-      "best_practices": 85,
       "seo": 92
     },
     {
-      "url": "https://www.nutriclub.co.id/membership",
+      "url": "https://www.nutriclub.co.id/artikel",
       "strategy": "desktop",
-      "performance": 51,
-      "accessibility": 72,
-      "best_practices": 92,
-      "seo": 92
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-3",
-      "strategy": "mobile",
-      "performance": 64,
-      "accessibility": 79,
-      "best_practices": 88,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-3",
-      "strategy": "desktop",
-      "performance": 68,
-      "accessibility": 75,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-4",
-      "strategy": "mobile",
       "performance": 67,
+      "accessibility": 78,
+      "best_practices": 92,
+      "seo": 92
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk",
+      "strategy": "mobile",
+      "performance": 56,
       "accessibility": 79,
       "best_practices": 88,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-4",
-      "strategy": "desktop",
-      "performance": 64,
-      "accessibility": 75,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrinidrink",
-      "strategy": "mobile",
-      "performance": 63,
-      "accessibility": 82,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/produk/nutrinidrink",
-      "strategy": "desktop",
-      "performance": 57,
-      "accessibility": 78,
-      "best_practices": 88,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/membership/login",
-      "strategy": "mobile",
-      "performance": 48,
-      "accessibility": 76,
-      "best_practices": 85,
-      "seo": 92,
+      "seo": 100,
       "retry_attempts": 4
     },
     {
+      "url": "https://www.nutriclub.co.id/produk",
+      "strategy": "desktop",
+      "performance": 57,
+      "accessibility": 74,
+      "best_practices": 92,
+      "seo": 100,
+      "retry_attempts": 4
+    },
+    {
+      "url": "https://www.nutriclub.co.id/tools",
+      "strategy": "mobile",
+      "performance": 74,
+      "accessibility": 77,
+      "best_practices": 88,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/tools",
+      "strategy": "desktop",
+      "performance": 62,
+      "accessibility": 78,
+      "best_practices": 92,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/membership",
+      "strategy": "mobile",
+      "performance": 32,
+      "accessibility": 72,
+      "best_practices": 85,
+      "seo": 92
+    },
+    {
+      "url": "https://www.nutriclub.co.id/membership",
+      "strategy": "desktop",
+      "performance": 35,
+      "accessibility": 70,
+      "best_practices": 92,
+      "seo": 92
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-3",
+      "strategy": "mobile",
+      "performance": 61,
+      "accessibility": 79,
+      "best_practices": 96,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-3",
+      "strategy": "desktop",
+      "performance": 55,
+      "accessibility": 75,
+      "best_practices": 92,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-4",
+      "strategy": "mobile",
+      "performance": 65,
+      "accessibility": 79,
+      "best_practices": 88,
+      "seo": 100,
+      "retry_attempts": 2
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrilon-royal-4",
+      "strategy": "desktop",
+      "performance": 48,
+      "accessibility": 75,
+      "best_practices": 92,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrinidrink",
+      "strategy": "mobile",
+      "performance": 64,
+      "accessibility": 82,
+      "best_practices": 92,
+      "seo": 100,
+      "retry_attempts": 2
+    },
+    {
+      "url": "https://www.nutriclub.co.id/produk/nutrinidrink",
+      "strategy": "desktop",
+      "performance": 47,
+      "accessibility": 78,
+      "best_practices": 88,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/membership/login",
+      "strategy": "mobile",
+      "performance": 39,
+      "accessibility": 76,
+      "best_practices": 85,
+      "seo": 92
+    },
+    {
       "url": "https://www.nutriclub.co.id/membership/login",
       "strategy": "desktop",
-      "performance": 59,
-      "accessibility": 78,
+      "performance": 62,
+      "accessibility": 76,
       "best_practices": 92,
       "seo": 92
     },
     {
       "url": "https://www.nutriclub.co.id/berita-dan-promo",
       "strategy": "mobile",
-      "performance": 55,
+      "performance": 69,
       "accessibility": 77,
       "best_practices": 88,
-      "seo": 100
+      "seo": 100,
+      "retry_attempts": 2
     },
     {
       "url": "https://www.nutriclub.co.id/berita-dan-promo",
       "strategy": "desktop",
-      "performance": 58,
+      "performance": 47,
       "accessibility": 78,
       "best_practices": 92,
       "seo": 100
@@ -165,7 +170,7 @@
     {
       "url": "https://www.nutriclub.co.id/csectionready",
       "strategy": "mobile",
-      "performance": 64,
+      "performance": 58,
       "accessibility": 70,
       "best_practices": 65,
       "seo": 92
@@ -173,7 +178,7 @@
     {
       "url": "https://www.nutriclub.co.id/csectionready",
       "strategy": "desktop",
-      "performance": 65,
+      "performance": 57,
       "accessibility": 72,
       "best_practices": 73,
       "seo": 92
@@ -181,7 +186,7 @@
     {
       "url": "https://www.nutriclub.co.id/tools/tes-potensi-caesar",
       "strategy": "mobile",
-      "performance": 76,
+      "performance": 74,
       "accessibility": 77,
       "best_practices": 88,
       "seo": 100
@@ -189,7 +194,7 @@
     {
       "url": "https://www.nutriclub.co.id/tools/tes-potensi-caesar",
       "strategy": "desktop",
-      "performance": 63,
+      "performance": 65,
       "accessibility": 78,
       "best_practices": 88,
       "seo": 100
@@ -197,7 +202,7 @@
     {
       "url": "https://www.nutriclub.co.id/tools/health-immune-checker",
       "strategy": "mobile",
-      "performance": 70,
+      "performance": 73,
       "accessibility": 75,
       "best_practices": 85,
       "seo": 100
@@ -205,7 +210,7 @@
     {
       "url": "https://www.nutriclub.co.id/tools/health-immune-checker",
       "strategy": "desktop",
-      "performance": 59,
+      "performance": 75,
       "accessibility": 76,
       "best_practices": 92,
       "seo": 100
@@ -221,7 +226,7 @@
     {
       "url": "https://www.nutriclub.co.id/faq",
       "strategy": "desktop",
-      "performance": 71,
+      "performance": 77,
       "accessibility": 78,
       "best_practices": 92,
       "seo": 100
@@ -229,7 +234,7 @@
     {
       "url": "https://www.nutriclub.co.id/tim-ahli",
       "strategy": "mobile",
-      "performance": 77,
+      "performance": 76,
       "accessibility": 79,
       "best_practices": 88,
       "seo": 100
@@ -237,15 +242,15 @@
     {
       "url": "https://www.nutriclub.co.id/tim-ahli",
       "strategy": "desktop",
-      "performance": 53,
-      "accessibility": 77,
+      "performance": 59,
+      "accessibility": 80,
       "best_practices": 92,
       "seo": 100
     },
     {
       "url": "https://www.nutriclub.co.id/tim-penulis",
       "strategy": "mobile",
-      "performance": 54,
+      "performance": 60,
       "accessibility": 83,
       "best_practices": 88,
       "seo": 100
@@ -253,7 +258,7 @@
     {
       "url": "https://www.nutriclub.co.id/tim-penulis",
       "strategy": "desktop",
-      "performance": 48,
+      "performance": 47,
       "accessibility": 80,
       "best_practices": 92,
       "seo": 100
@@ -261,47 +266,48 @@
     {
       "url": "https://www.nutriclub.co.id/term",
       "strategy": "mobile",
-      "performance": 81,
+      "performance": 78,
       "accessibility": 75,
       "best_practices": 88,
       "seo": 100
     },
     {
       "url": "https://www.nutriclub.co.id/term",
-      "strategy": "desktop",
-      "performance": 82,
-      "accessibility": 75,
-      "best_practices": 92,
-      "seo": 100
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel",
-      "strategy": "mobile",
-      "performance": 56,
-      "accessibility": 77,
-      "best_practices": 88,
-      "seo": 92
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel",
-      "strategy": "desktop",
-      "performance": 72,
-      "accessibility": 78,
-      "best_practices": 92,
-      "seo": 92
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel?kategori=mama",
-      "strategy": "mobile",
-      "performance": 56,
-      "accessibility": 77,
-      "best_practices": 88,
-      "seo": 61
-    },
-    {
-      "url": "https://www.nutriclub.co.id/artikel?kategori=mama",
       "strategy": "desktop",
       "performance": 68,
+      "accessibility": 75,
+      "best_practices": 92,
+      "seo": 100
+    },
+    {
+      "url": "https://www.nutriclub.co.id/artikel",
+      "strategy": "mobile",
+      "performance": 62,
+      "accessibility": 77,
+      "best_practices": 88,
+      "seo": 92
+    },
+    {
+      "url": "https://www.nutriclub.co.id/artikel",
+      "strategy": "desktop",
+      "performance": 49,
+      "accessibility": 78,
+      "best_practices": 92,
+      "seo": 92,
+      "retry_attempts": 2
+    },
+    {
+      "url": "https://www.nutriclub.co.id/artikel?kategori=mama",
+      "strategy": "mobile",
+      "performance": 62,
+      "accessibility": 77,
+      "best_practices": 88,
+      "seo": 61
+    },
+    {
+      "url": "https://www.nutriclub.co.id/artikel?kategori=mama",
+      "strategy": "desktop",
+      "performance": 45,
       "accessibility": 78,
       "best_practices": 92,
       "seo": 61
@@ -309,7 +315,7 @@
     {
       "url": "https://www.nutriclub.co.id/artikel?kategori=bayi",
       "strategy": "mobile",
-      "performance": 65,
+      "performance": 54,
       "accessibility": 77,
       "best_practices": 88,
       "seo": 61
@@ -317,23 +323,25 @@
     {
       "url": "https://www.nutriclub.co.id/artikel?kategori=bayi",
       "strategy": "desktop",
-      "performance": 62,
+      "performance": 46,
       "accessibility": 78,
       "best_practices": 92,
-      "seo": 61
+      "seo": 61,
+      "retry_attempts": 2
     },
     {
       "url": "https://www.nutriclub.co.id/artikel?kategori=anak",
       "strategy": "mobile",
-      "performance": 62,
+      "performance": 57,
       "accessibility": 77,
       "best_practices": 88,
-      "seo": 61
+      "seo": 61,
+      "retry_attempts": 2
     },
     {
       "url": "https://www.nutriclub.co.id/artikel?kategori=anak",
       "strategy": "desktop",
-      "performance": 53,
+      "performance": 62,
       "accessibility": 75,
       "best_practices": 92,
       "seo": 61
@@ -341,7 +349,7 @@
     {
       "url": "https://www.nutriclub.co.id/artikel/nutrisi/10-12-bulan/tekstur-mpasi-10-bulan",
       "strategy": "mobile",
-      "performance": 73,
+      "performance": 75,
       "accessibility": 80,
       "best_practices": 88,
       "seo": 92
@@ -349,7 +357,7 @@
     {
       "url": "https://www.nutriclub.co.id/artikel/nutrisi/10-12-bulan/tekstur-mpasi-10-bulan",
       "strategy": "desktop",
-      "performance": 74,
+      "performance": 68,
       "accessibility": 79,
       "best_practices": 92,
       "seo": 92
